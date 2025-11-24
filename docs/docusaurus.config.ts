@@ -397,6 +397,11 @@ const config: Config = {
               docId: 'faq',
               label: 'FAQ',
             },
+            {
+              type: 'doc',
+              docId: 'using-superset/db_features',
+              label: 'Database Features',
+            },
           ],
         },
         {
